@@ -4,7 +4,7 @@ $${\color{BDD4FF}\Huge\text{\qquad  ྀི།ིྀ ͝  'JUST4U…! .   \qquad}}
 </p>
 
 <div align="center">
-$${\color{BDD4FF}\Huge\text{\qquad  ྀི།ིྀ ͝  'SOMETHINGWRONGW/Me! .   \qquad}}$$
+$${\color{BDD4FF}\Huge\text{\qquad  ྀི།ིྀ ͝  'SOMETHINGWRONGWITHMe! .   \qquad}}$$
 <details>
 <summary></summary>
 
