@@ -6,7 +6,7 @@ $${\color{BDD4FF}\Huge\text{\qquad  ྀི།ིྀ ͝  'JUST4U…! .   \qquad}}
 <div align="center">
 
 <details>
-<summary>$${\color{BDD4FF}\Huge\text{\qquad  ྀི 'Linkies .   \qquad}}$$></summary>
+<summary>$${\color{BDD4FF}\Huge\text{\qquad CALL.THEDOC   \qquad}}$$</summary>
 
 [steaw page](https://punchiez.straw.page)
 <img src="https://github.com/locallyconnected/Testinz/blob/436e9a13bfec679f03d0c6fafd4a88209ab95ecf/IMG_2142.gif" width="30" height="30">
