@@ -1,9 +1,9 @@
-$${\color{BDD4FF}\Huge\text{\qquad  ྀ CALLTEHDOCTOR .   \qquad}}$$
+$${\color{BDD4FF}\Huge\text{\qquad  ྀ JUST 4 U. .   \qquad}}$$
 <p align="center">
 <img src="https://github.com/locallyconnected/Testinz/blob/8333164bdcee9a8aa5b3b5ec056fe4af60aec83d/Untitled497_20261031141502.png" width="600"> 
 </p>
 
-$${\color{BDD4FF}\Huge\text{\qquad  ྀ SUMTHNGS WRONG WITH ME?? .   \qquad}}$$
+$${\color{BDD4FF}\small\text{\qquad  ྀ  links below .   \qquad}}$$
 
 <div align="center">
 
