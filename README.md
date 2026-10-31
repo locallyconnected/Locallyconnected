@@ -3,8 +3,11 @@ $${\color{BDD4FF}\Huge\text{\qquad  ྀི།ིྀ ͝  'JUST4U…! .   \qquad}}
 <img src="https://github.com/locallyconnected/Testinz/blob/8333164bdcee9a8aa5b3b5ec056fe4af60aec83d/Untitled497_20261031141502.png" width="600"> 
 </p>
 
+$${\color{BDD4FF}\Huge\text{\qquad  ྀ HES A BEAST .   \qquad}}$$
+
 <div align="center">
-$${\color{BDD4FF}\Huge\text{\qquad  ྀི།ིྀ ͝  'SOMETHINGWRONGWITHMe! .   \qquad}}$$
+
+
 <details>
 <summary></summary>
 
