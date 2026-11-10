@@ -5,10 +5,4 @@
   ${\LARGE\textsf{\color{#2243E0} 𑂘ꩭ𑄜𐓦౿ }}$
   </p>
 </center>
-  <p>
-  ${\LARGE\textsf{\color{#2243E0} 𑂘ꩭ𑄜𐓦౿ }}$
-</p>
-<p style="text-align: center;">
-  ${\Huge\textsf{\color{#2243E0} 𑂘ꩭ𑄜𐓦౿ }}$
-</p>
 
