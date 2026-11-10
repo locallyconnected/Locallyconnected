@@ -7,3 +7,8 @@
 <p style="text-align: center;">
   ${\Huge\textsf{\color{#2243E0} 𑂘ꩭ𑄜𐓦౿ }}$
 </p>
+<p>
+  $\begin{gathered}
+  \Huge\textsf{\color{#2243E0} 𑂘ꩭ𑄜𐓦౿}
+  \end{gathered}$
+</p>
