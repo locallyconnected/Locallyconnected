@@ -1,8 +1,3 @@
 
 ![My Photo](https://github.com/locallyconnected/Locallyconnected/blob/2fa799a522ae2752344a5f75b157a36d4db6761d/Untitled654_Restored_20261109113441.png)
-<center>
-  <p>
-  ${\LARGE\textsf{\color{#2243E0} 　᭕  ྀི 　　໊  ׅ ͜ ◞୨୧ ◞ ྀི◟ ͜ ꒷꒦︶︶‧ ₊˚  ׅ　𑂘ꩭ𑄜𐓦౿  ᨳ᭬ fᨡ𑄠ກ ͜ ◞ ྀི◟ ͜ ◞୨୧ ◞ ྀི◟ ͜ ꒷꒦︶︶︶꒷}}$
-  </p>
-</center>
-  ${\LARGE\textsf{\color{#2243E0} 　᭕  ྀི 　　໊  ׅ ͜ ◞୨୧ ◞ ྀི◟ ✦ ୨୧ ◞ ྀི◟ ͜ㅤ୭ ୨♡୧ 🐾 ᭕  ྀི 𐒅౿/ꩭᨡ𑄠/ꩭᨡ𑄠𑂘౿𐑙f  ͜ ✦ ୨୧ ◞ ྀི◟ ͜ ꒷꒦︶︶ ✦︶︶꒷}}$
+![My photo](https://github.com/locallyconnected/Locallyconnected/blob/c8114f0e4e87fc49a4ed29e6cc2ddb1b99d0cd66/Untitled654_Restored_20261109113708.png)
